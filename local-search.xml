@@ -8,9 +8,15 @@
     <link href="/2025/01/16/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
     <url>/2025/01/16/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<p>这是一篇测试文章</p><p class="note note-success">标签</p><p>大萨达啊</p><p><span class="label label-primary">Label</span></p>    <div class="fold">      <div class="fold-title fold-info collapsed" data-toggle="collapse" href="#collapse-b5714680" role="button" aria-expanded="false" aria-controls="collapse-b5714680">        <div class="fold-arrow">▶</div>烧烧烧      </div>      <div class="fold-collapse collapse" id="collapse-b5714680">        <div class="fold-content">          <p>需要折叠的一段内容，支持 markdown</p>        </div>      </div>    </div>]]></content>
     
     
+    
+    <tags>
+      
+      <tag>原创</tag>
+      
+    </tags>
     
   </entry>
   
